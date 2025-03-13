@@ -1,6 +1,8 @@
 # evaluating-fairness-discriminative-fms
 Accompanying code to our AIES '23 paper
 
+Download code from https://github.com/oxai/debias-vision-lang for comparison. 
+
 # Citation:
 
 @inproceedings{ali2023evaluating,
