@@ -5,7 +5,7 @@
 
 
 
-This is based on the code shared by:"]https://github.com/rmokady/CLIP_prefix_caption
+This is based on the code shared by: https://github.com/rmokady/CLIP_prefix_caption
 
 
 
