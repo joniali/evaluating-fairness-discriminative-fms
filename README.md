@@ -1,7 +1,7 @@
 # evaluating-fairness-discriminative-fms
 Accompanying code to our AIES '23 paper
 
-#Citation:
+# Citation:
 
 @inproceedings{ali2023evaluating,
   title={Evaluating the fairness of discriminative foundation models in computer vision},
